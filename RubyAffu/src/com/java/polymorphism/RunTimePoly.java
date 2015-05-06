@@ -1,5 +1,16 @@
 package com.java.polymorphism;
+/**
+ * 
+ * @author faiz
+ * 
+ *When one task is performed by different ways i.e. known as polymorphism. For example: to convense the customer differently, to draw something e.g. shape or rectangle etc. 
 
+In java, we use method overloading and method overriding to achieve polymorphism.
+
+Another example can be to speak something e.g. cat speaks meaw, dog barks woof etc
+
+ *
+ */
 
 class Bank{  
 int getRateOfInterest(){return 1;}  
